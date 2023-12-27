@@ -5,7 +5,7 @@
   </tr>
   <tr>
     <td>Nama</td>
-    <td>Aas FATHIA WARDAH S.DJAWAS</td>
+    <td>FATHIA WARDAH S.DJAWAS</td>
   </tr>
   <tr>
     <td>NIM</td>
