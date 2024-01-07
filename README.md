@@ -93,4 +93,4 @@ include_once 'footer.php';
 
 > Hasil Output halaman `login.php` :
 
-![formlogin](https://github.com/FathiaDjawas/Lab12web/assets/115867244/9a5cdf7a-733a-4842-b39f-4b7161b20d5d)
+![Screenshot (429)](https://github.com/FathiaDjawas/Lab12Web/assets/115916422/af2e0e7e-4751-425b-a01c-344c3bf7b89c)
